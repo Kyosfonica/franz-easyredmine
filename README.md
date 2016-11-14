@@ -6,7 +6,7 @@ The minimum requirement to run a custom Franz integration is Franz v. 4.0.0. To 
 
 #Installation
 
-To install a new integration, download the project and unzip de easyredmine folder inside the Franz Plugins folder.
+To install this plugin, download the project and unzip the easyredmine folder (not the project name folder) inside the Franz Plugins folder.
 
 To open the Franz Plugins folder on your machine:
 
