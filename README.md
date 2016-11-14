@@ -6,9 +6,9 @@ The minimum requirement to run a custom Franz integration is Franz v. 4.0.0. To 
 
 #Installation
 
-To install a new integration, download the project
+To install a new integration, download the project and unzip de easyredmine folder inside the Franz Plugins folder.
 
-Open the Franz Plugins folder on your machine:
+To open the Franz Plugins folder on your machine:
 
 Mac: ~Library/Application Support/Franz/Plugins/
 
@@ -19,7 +19,3 @@ Linux: ~/.config/Franz/Plugins
 Alternatively: Go to your Franz settings page, scroll down to the bottom and you will see an option to "Open the Franz plugin directory"
 Copy the oratio folder into the plugins directory
 Restart Franz
-
-#Participate
-
-In case you like to improve existing services or even create your own custom integrations then feel free to just create a pull request.
