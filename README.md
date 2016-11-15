@@ -17,5 +17,5 @@ Windows: %appdata%/Franz/Plugins
 Linux: ~/.config/Franz/Plugins
 
 Alternatively: Go to your Franz settings page, scroll down to the bottom and you will see an option to "Open the Franz plugin directory"
-Copy the oratio folder into the plugins directory
+Copy the easyredmine folder into the plugins directory
 Restart Franz
